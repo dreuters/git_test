@@ -1,1 +1,3 @@
 # git_test
+Working the git/GitHub lessons...
+Hello Odin!
